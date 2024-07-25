@@ -1,20 +1,15 @@
-# Skillcread_GenAI
-Here's a draft for your README file:
+# Chat Bot
 
----
-
-# PDF Analyzer Bot
-
-PDF Analyzer Bot is an innovative project designed to leverage the Gemini API and LangChain for advanced document analysis capabilities. This project enables advanced parsing, insightful analysis, and streamlined data extraction from PDF documents.
+Chat Bot is an innovative project designed to leverage the Gemini API and LangChain for advanced document analysis capabilities. This project enables advanced parsing, insightful analysis, and streamlined data extraction from PDF documents.
 
 ## Project Files
 
-- `app.py`: The main application file that runs the PDF Analyzer Bot.
+- `app.py`: The main application file that runs the Chat Bot.
 - `requirements.txt`: A list of all the dependencies and libraries required to run the project.
 
 ## Installation
 
-To get started with the PDF Analyzer Bot, follow the steps below:
+To get started with the Chat Bot, follow these steps:
 
 1. **Clone the repository:**
     ```bash
@@ -29,21 +24,12 @@ To get started with the PDF Analyzer Bot, follow the steps below:
 
 ## Running the Application
 
-Once you have installed all the required libraries, you can run the application using the following command:
-
+Once you have installed all the required libraries, run the application with:
 ```bash
 python -m streamlit run app.py
 ```
-
-This will start the Streamlit server, and you will be able to interact with the PDF Analyzer Bot through your web browser.
-
-## Features
-
-- **Advanced Parsing:** Utilize the Gemini API and LangChain for extracting and parsing data from PDF documents.
-- **Insightful Analysis:** Perform deep analysis on the extracted data to generate meaningful insights.
-- **Streamlined Data Extraction:** Efficiently extract data and streamline the workflow for further processing.
+This will start the Streamlit server, and you will be able to interact with the Chat Bot through your web browser.
 
 ## Acknowledgements
 
 Special thanks to Kunal Kishore and Skillcred for their valuable guidance and support throughout this project.
-
