@@ -26,6 +26,12 @@ To get started with the Chat Bot, follow these steps:
     pip install -r requirements.txt
     ```
 
+3. **Create an environment file:**
+    Create a `.env` file in the project directory and add your Google API key:
+    ```plaintext
+    GOOGLE_API_KEY = "your-generated-api-key-from-google-ai-studio"
+    ```
+
 ## Running the Application
 
 Once you have installed all the required libraries, run the application with:
